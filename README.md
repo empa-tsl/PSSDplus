@@ -9,6 +9,8 @@ Published in Integrated Environmental Assessment and Management in 2019.
 
 This work is licensed under: Creative Commons Attribution Non Commercial Share Alike 4.0 International
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3516566.svg)](https://doi.org/10.5281/zenodo.3516566)
+
 The PSSD+ tool generates probabilistic species sensitivity distributions (PSSDs). 
 It includes five functions: 
 - rmore creates no-observed effect concentration (NOEC) distributions combining NOEC values for species for which 3 or more data points are available. This function is used by the functions do.pSSD, do.pSSD.Ag, do.pSSD.troph and do.pSSD.troph.Ag. 
